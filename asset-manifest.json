@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ActiveBox/static/js/main.c4d2c783.js",
+    "index.html": "/ActiveBox/index.html",
+    "main.c4d2c783.js.map": "/ActiveBox/static/js/main.c4d2c783.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c4d2c783.js"
+  ]
+}
