@@ -1,2 +1,1 @@
-Demo:
-https://darkhoptoad.github.io/ActiveBox/
+[Demo](https://darkhoptoad.github.io/ActiveBox/)
